@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APP_001_LED_Demo</string>
+    <string name="button_all_on">打开所有LED</string>
+    <string name="button_all_off">关闭所有LED</string>
+    <string name="ck_led1">LED1</string>
+    <string name="ck_led2">LED2</string>
+    <string name="ck_led3">LED3</string>
+    <string name="ck_led4">LED4</string>
+    <string name="toast_led1_click_on">LED1打开</string>
+    <string name="toast_led1_click_off">LED1关闭</string>
+
+    <string name="toast_led2_click_on">LED2打开</string>
+    <string name="toast_led2_click_off">LED2关闭</string>
+
+    <string name="toast_led3_click_on">LED3打开</string>
+    <string name="toast_led3_click_off">LED3关闭</string>
+
+    <string name="toast_led4_click_on">LED4打开</string>
+    <string name="toast_led4_click_off">LED4关闭</string>
+</resources>
